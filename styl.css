@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.hlavicka {
+  background: #1f3a5f;
+  color: #fff;
+  padding: 0.6rem 1rem;
+}
+
+.hlavicka h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+#mapa {
+  flex: 1;
+  width: 100%;
+}
+
+/* Obsah popupu */
+.popup h3 {
+  margin: 0 0 0.3rem;
+  font-size: 1rem;
+}
+
+.popup p {
+  margin: 0;
+  font-size: 0.9rem;
+}
