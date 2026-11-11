@@ -16,6 +16,18 @@
     {
       "type": "Feature",
       "properties": {
+        "id": 1,
+        "nazev": "Olomouc",
+        "popisek": "Historické město na Moravě, sídlo Olomouckého kraje."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.2509, 49.5938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": 2,
         "nazev": "Praha",
         "popisek": "Hlavní město České republiky."
